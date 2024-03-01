@@ -149,3 +149,5 @@ const startButton = document.querySelector("#start-button");
 startButton.addEventListener("click", () =>{
     Game.start();
 })
+
+//to update further
